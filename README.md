@@ -1,0 +1,2 @@
+# learningsql
+interested in IT
